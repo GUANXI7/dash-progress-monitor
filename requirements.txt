@@ -1,4 +1,3 @@
-Flask
-pandas
-plotly
 dash
+plotly
+pandas  # if you plan to extend or use pandas functionality later
